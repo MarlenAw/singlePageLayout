@@ -5,7 +5,7 @@ Using Gulp.js, Git, and Browserify ---- WORK PROJECT
 
 
 
-For this project, you need:
+## For this project, you need:
 
 1. Node.js + npm 
 2. Ruby Installer -> https://rubyinstaller.org/downloads/
