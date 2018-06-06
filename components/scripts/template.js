@@ -2,7 +2,7 @@
 $(function () {
     var Mustache = require('mustache');
 
-    $.getJSON('js/data.json', function (data) {
+    $.getJSON('js/data.json', function (data) { //data.json -> builds/dev/js/data.json
         var template = $('#speakerstpl').html(); //speakerstpl is a template in index.html -> at the bottom of the page
         var html = Mustache.to_html(template, data);
         $('#speakers').html(html);
