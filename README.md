@@ -1,4 +1,5 @@
 # singlePageLayout
+Moving project to https://github.com/commitmentNow/mainProjects/tree/master/singlePageLayout-Gulp
 Using Gulp.js, Git, and Browserify ---- WORK PROJECT
 
 -------------------------
